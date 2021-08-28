@@ -1,0 +1,9 @@
+{
+	"pos"  	:  	[960, 10],
+	"size" 	: 	[400, 450],
+	"alpha"	:	0.35,
+	"bg"	:	"white",
+	"fg"	:	"black",
+	"font"	:	"Consolas",
+	"font_size":10
+}
